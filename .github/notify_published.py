@@ -18,7 +18,7 @@ def get_info():
 version, name, url = get_info()
 embed = {
     'author': {
-        'name': 'New Build Available!',
+        'name': 'New Dev Build Available!',
         'url': 'https://github.com/promcteam/' + name
     },
     'title': version,
